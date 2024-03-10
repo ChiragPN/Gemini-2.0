@@ -1,8 +1,9 @@
-# React + Vite
+## Gemini 2.0
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is almost the clone of Google Gemini - Gemini 2.0
 
-Currently, two official plugins are available:
+Tech stack:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Google generative ai using Google AI studio
+2. React + Vite
+3. CSS
